@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0196-delete-duplicate-emails) |
 | [0620-not-boring-movies](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/1068-product-sales-analysis-i) |
 | [1193-monthly-transactions-i](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/1193-monthly-transactions-i) |
