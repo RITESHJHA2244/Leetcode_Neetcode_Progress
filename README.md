@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0054-spiral-matrix) |
+| [0217-contains-duplicate](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
 | ------- |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
