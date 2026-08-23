@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0175-combine-two-tables) |
 | [0196-delete-duplicate-emails](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0196-delete-duplicate-emails) |
 | [0619-biggest-single-number](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0620-not-boring-movies) |
