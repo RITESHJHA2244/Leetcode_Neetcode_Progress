@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0347-top-k-frequent-elements) |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0704-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
