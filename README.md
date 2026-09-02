@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
