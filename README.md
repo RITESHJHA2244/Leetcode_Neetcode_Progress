@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0704-binary-search) |
+| [0997-find-the-town-judge](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0997-find-the-town-judge) |
 ## Matrix
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0347-top-k-frequent-elements) |
+| [0997-find-the-town-judge](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0136-single-number) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/RITESHJHA2244/Leetcode_Neetcode_Progress/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
